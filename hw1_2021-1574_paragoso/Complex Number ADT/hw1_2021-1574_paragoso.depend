@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1653192205 source:c:\users\user\desktop\hw1_2021-1574_paragoso\assignment1.cc
+	<iostream>
+	"complex.hh"
+
+1653142991 c:\users\user\desktop\hw1_2021-1574_paragoso\complex.hh
+	<iostream>
+
+1653228658 source:c:\users\user\desktop\hw1_2021-1574_paragoso\complex.cc
+	<iostream>
+	<math.h>
+	"complex.hh"
+
+1653192205 source:c:\users\user\desktop\eda's files\program\hw1_2021-1574_paragoso\assignment1.cc
+	<iostream>
+	"complex.hh"
+
+1653142991 c:\users\user\desktop\eda's files\program\hw1_2021-1574_paragoso\complex.hh
+	<iostream>
+
+1653229835 source:c:\users\user\desktop\eda's files\program\hw1_2021-1574_paragoso\complex.cc
+	<iostream>
+	<math.h>
+	"complex.hh"
+
